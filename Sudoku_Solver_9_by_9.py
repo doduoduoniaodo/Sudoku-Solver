@@ -43,17 +43,21 @@ def issafe(r, c, n):
 def solve_sudoku(r, c):
     if r == 8 and c == 9:
         return True
+    
     if c == 9:
         r += 1
         c = 0
+        
     if sudoku_grid[r][c] != '':
         return solve_sudoku(r, c + 1)
+    
     for num in range(1, 10, 1):
         if issafe(r, c, str(num)):
             sudoku_grid[r][c] = str(num)
             if solve_sudoku(r, c + 1):
                 return True
         sudoku_grid[r][c] = ''
+    
     return False
     
     
