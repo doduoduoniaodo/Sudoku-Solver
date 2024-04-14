@@ -46,14 +46,14 @@ def solve_sudoku(r, c):
     if c == 9:
         r += 1
         c = 0
-    if sudoku_grid[r][c] != '.':
+    if sudoku_grid[r][c] != '':
         return solve_sudoku(r, c + 1)
     for num in range(1, 10, 1):
         if issafe(r, c, str(num)):
             sudoku_grid[r][c] = str(num)
             if solve_sudoku(r, c + 1):
                 return True
-        sudoku_grid[r][c] = '.'
+        sudoku_grid[r][c] = ''
     return False
     
     
@@ -61,7 +61,7 @@ def solve_sudoku(r, c):
 s = tk.Tk()
 s.title('Sudoku Solver')
 s.geometry('400x400')
-w = tk.Label(s, text='Unknown numbers enter as "."', fg='blue').place(x=110, y=0)
+w = tk.Label(s, text='Unknown number leave it blank', fg='blue').place(x=100, y=10)
 entries = []
 for i in range(50, 320, 30):
     e = []
