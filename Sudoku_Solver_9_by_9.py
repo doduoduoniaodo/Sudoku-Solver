@@ -11,7 +11,7 @@ def run():
     if solve_sudoku(0, 0):
         result_window()
     else:
-        tk.Label(s, text='This sudoku has no solution', fg='red').place(x=120, y=315)
+        tk.Label(s, text='This sudoku has no solution', fg='red').place(x=110, y=315)
 
 def result_window():
     result = tk.Toplevel(s)

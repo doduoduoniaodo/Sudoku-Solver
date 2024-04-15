@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['Sudoku_Solver_9_by_9.py'],
+    ['Sudoku_solver_9_by_9.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -21,7 +21,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='Sudoku_Solver_9_by_9',
+    name='Sudoku_solver_9_by_9',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

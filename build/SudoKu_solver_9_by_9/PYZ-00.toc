@@ -1,4 +1,4 @@
-('E:\\马骞一\\Python\\Sudoku_Solver\\build\\Sudoku_Solver_9_by_9\\PYZ-00.pyz',
+('E:\\马骞一\\Python\\Sudoku_Solver\\build\\Sudoku_solver_9_by_9\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\57273\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
    'PYMODULE'),
