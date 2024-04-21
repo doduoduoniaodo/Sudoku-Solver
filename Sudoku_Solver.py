@@ -59,7 +59,7 @@ def solve_sudoku(r, c):
 s = tk.Tk()
 s.title('Sudoku Solver')
 s.geometry('400x400')
-w = tk.Label(s, text='Unknown numbers enter as "."', fg='blue').place(x=110, y=0)
+w = tk.Label(s, text='Please use "." instead of unknown numbers when entering', fg='blue').pack()
 entries = []
 for i in range(50, 320, 30):
     entry = tk.Entry(s, width=27, justify='center')
