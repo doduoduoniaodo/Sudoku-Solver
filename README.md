@@ -1,6 +1,13 @@
 # Sudoku_Solver
 **1. Sudoku_Solver**
 
+There are only 9 input boxes.
+
+Enter a line of numbers into each input box.
+
+Please use "." instead of unknown numbers when entering.
+
+
 ![image](https://github.com/DoDDNDo/Sudoku_Solver/assets/147770740/a411a0ba-b974-49e6-b959-16f7bbbc719a)
 
 **2. Sudoku_Solver_9_by_9**
