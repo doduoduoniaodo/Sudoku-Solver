@@ -65,7 +65,7 @@ def solve_sudoku(r, c):
 s = tk.Tk()
 s.title('Sudoku Solver')
 s.geometry('400x400')
-w = tk.Label(s, text='Unknown number leave it blank', fg='blue').place(x=100, y=10)
+w = tk.Label(s, text='Unknown numbers leave it blank', fg='blue').place(x=98, y=10)
 entries = []
 for i in range(50, 320, 30):
     e = []
