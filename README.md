@@ -9,7 +9,7 @@ Use periods (.) to indicate numbers that are to be filled.
 
 Run **Sudoku_Solver.exe** or **Sudoku_Solver.py** to use it
 
-![image](https://github.com/DoDDNDo/Sudoku_Solver/assets/147770740/434dcb58-95de-4301-87e2-de5b78550229)
+![image](https://github.com/DoDDNDo/Sudoku_Solver/assets/147770740/8e22de5a-79d2-44a7-a1a2-77225b46b052)
 
 
 
