@@ -7,7 +7,7 @@ Enter a line of numbers into each input box.
 
 Please use "." instead of unknown numbers when entering.
 
-
+Run **Sudoku_Solver.exe** or **Sudoku_Solver.py** to use it
 
 ![image](https://github.com/DoDDNDo/Sudoku_Solver/assets/147770740/434dcb58-95de-4301-87e2-de5b78550229)
 
