@@ -8,6 +8,7 @@ Enter a line of numbers into each input box.
 Please use "." instead of unknown numbers when entering.
 
 
+
 ![image](https://github.com/DoDDNDo/Sudoku_Solver/assets/147770740/434dcb58-95de-4301-87e2-de5b78550229)
 
 
@@ -20,6 +21,7 @@ Enter one number into each input box.
 
 Leave unknown numbers blank when entering
 
+Click **Sudoku_Solver_9_by_9.exe** or **Sudoku_Solver_9_by_9.py** to run it
 
 ![image](https://github.com/DoDDNDo/Sudoku_Solver/assets/147770740/0a30aeaa-f944-4cca-8fd1-9ea3be06184d)
 
