@@ -5,7 +5,7 @@ There are only 9 input boxes.
 
 Enter a line of numbers into each input box.
 
-Please use "." instead of unknown numbers when entering.
+Use periods (.) to indicate numbers that are to be filled.
 
 Run **Sudoku_Solver.exe** or **Sudoku_Solver.py** to use it
 
