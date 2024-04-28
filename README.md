@@ -21,7 +21,7 @@ Enter one number into each input box.
 
 Leave unknown numbers blank when entering
 
-Click **Sudoku_Solver_9_by_9.exe** or **Sudoku_Solver_9_by_9.py** to run it
+Run **Sudoku_Solver_9_by_9.exe** or **Sudoku_Solver_9_by_9.py** to use it
 
 ![image](https://github.com/DoDDNDo/Sudoku_Solver/assets/147770740/0a30aeaa-f944-4cca-8fd1-9ea3be06184d)
 
