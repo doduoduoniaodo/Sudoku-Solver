@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**1. Sudoku_Solver**
+### 1. Sudoku_Solver
 
 There are only 9 input boxes.
 
@@ -16,7 +16,7 @@ Run **Sudoku_Solver.exe** or **Sudoku_Solver.py**
 
 
 
-**2. Sudoku_Solver_9_by_9**
+### 2. Sudoku_Solver_9_by_9
 
 There are 81 input boxes (9 * 9).
 
