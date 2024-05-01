@@ -2,7 +2,7 @@
 
 ## Introduction
 
-
+A tool for solving sudoku
 
 ## Instructions
 
